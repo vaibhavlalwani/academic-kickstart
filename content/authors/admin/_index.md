@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Vaibhav Lalwani
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Doctoral Candidate in Finance and Accounting
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Indian Institute of Management Lucknow
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Asset Pricing
+- Factor investing
+- Aggregate accounting
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: FPM (PhD) in Finance and Accounting
+    institution: Indian Institute of Management Lucknow
+    year: 2020
+  - course: Masters in Finance and Control
+    institution: Department of Financial Studies, University of Delhi
+    year: 2013
+  - course: BA (Hons) in Business Economics
+    institution: Shivaji College, University of Delhi
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/vaibhav_lalwani
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=yjKy31sAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/vaibhavlalwani
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Vaibhav Lalwani is a Doctoral Student in Finance & Accounting at the Indian Institute of Management Lucknow. His research interests include asset pricing, investment strategies and aggregate accounting.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
