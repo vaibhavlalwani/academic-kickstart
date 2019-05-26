@@ -1,9 +1,9 @@
 +++
-title = "An example journal article"
-date = 2015-09-01T00:00:00
+title = "Quality investing in the Indian stock market"
+date = 2018-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin"]
+authors = ["admin", "Madhumita Chakraborty"]
 
 # Publication type.
 # Legend:
@@ -19,14 +19,14 @@ authors = ["admin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Source Themes, 1*(1)"
+publication = "*Managerial Finance, 44*(2)"
 publication_short = ""
 
 # Abstract.
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida."
+abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum."
+summary = "The purpose of this paper is to explore whether stock selection strategies based on four fundamental quality indicators can generate superior returns compared to the passive market portfolio. The findings suggest that two of the four quality strategies, namely Grantham Quality indicator and Gross Profitability have generated superior returns in Indian stock market for the 2001-2015 period."
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -55,7 +55,7 @@ projects = []
 slides = "example"
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
