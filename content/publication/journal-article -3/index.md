@@ -1,9 +1,9 @@
 +++
-title = "Asset Pricing factors and future economic growth"
-date = 2018-09-01T00:00:00
+title = "Investor reaction to extreme price shocks in stock markets: A cross country examination"
+date = 2019-03-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin","Madhumita Chakraborty"]
+authors = ["admin","Udayan Sharma" ,"Madhumita Chakraborty"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["admin","Madhumita Chakraborty"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Economics Letters, 1*(1)"
-publication_short = ""
+publication = "*IIMB Management Review"
+publication_short = "This study attempts to investigate the presence of post-event over or under reaction in stock markets of the top ten countries by market-capitalization. An event is defined as an extreme price movement beyond a pre-defined threshold. Intra-day stock returns at ten-minute frequency starting from June 2009 till May 2016 have been analysed using Average cumulative returns (ACR) and Average cumulative abnormal returns (ACAR) for a six-day duration after the event. It seems that there is presence of over/under reaction in eight out of total ten countries and investors display psychological biases which lead to profit making opportunities."
 
 # Abstract.
-abstract = "In this study, We test if seven commonly used asset-pricing factors predict future growth in GDP and industrial production. There is minimal evidence that asset-pricing factors other than the market factor predict future economic growth. Predictive power of these factors reported in earlier literature seems to have attenuated."
+abstract = ""
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -36,7 +36,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Source Themes"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
