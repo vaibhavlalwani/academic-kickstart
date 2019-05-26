@@ -57,12 +57,12 @@ slides = "example"
 # Links (optional).
 url_pdf = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "https://drive.google.com/file/d/16jy3eSO9vWRxNFHwbTZi9pOc7D1VdS5K/view"
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.sciencedirect.com/science/article/pii/S016517651830168X"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

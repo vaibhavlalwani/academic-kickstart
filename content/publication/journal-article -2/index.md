@@ -57,12 +57,12 @@ slides = "example"
 # Links (optional).
 url_pdf = ""
 url_code = ""
-url_dataset = ""
+url_dataset = "https://drive.google.com/file/d/1drUf3bkcjkMIhSkFZE9CZnoJst3O97iK/view"
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.emeraldinsight.com/doi/abs/10.1108/MF-07-2017-0248"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
