@@ -48,6 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/vaibhav_lalwani
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/vaibhav-lalwani-34b21153/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=yjKy31sAAAAJ&hl=en
