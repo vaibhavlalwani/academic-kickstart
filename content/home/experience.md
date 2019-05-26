@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * General Banking
-  * Alternate Channel
+  * Alternate Channels
   * Agri-Business
   """
 
