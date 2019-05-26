@@ -23,10 +23,10 @@ publication = "*Managerial Finance, 44*(2)"
 publication_short = ""
 
 # Abstract.
-abstract = ""
+abstract = "The purpose of this paper is to explore whether stock selection strategies based on four fundamental quality indicators can generate superior returns compared to the passive market portfolio. The findings suggest that two of the four quality strategies, namely Grantham Quality indicator and Gross Profitability have generated superior returns in Indian stock market for the 2001-2015 period."
 
 # Summary. An optional shortened abstract.
-summary = "The purpose of this paper is to explore whether stock selection strategies based on four fundamental quality indicators can generate superior returns compared to the passive market portfolio. The findings suggest that two of the four quality strategies, namely Grantham Quality indicator and Gross Profitability have generated superior returns in Indian stock market for the 2001-2015 period."
+summary = ""
 
 # Digital Object Identifier (DOI)
 doi = ""

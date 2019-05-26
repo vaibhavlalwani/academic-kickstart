@@ -20,10 +20,10 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*IIMB Management Review"
-publication_short = "This study attempts to investigate the presence of post-event over or under reaction in stock markets of the top ten countries by market-capitalization. An event is defined as an extreme price movement beyond a pre-defined threshold. Intra-day stock returns at ten-minute frequency starting from June 2009 till May 2016 have been analysed using Average cumulative returns (ACR) and Average cumulative abnormal returns (ACAR) for a six-day duration after the event. It seems that there is presence of over/under reaction in eight out of total ten countries and investors display psychological biases which lead to profit making opportunities."
+publication_short = ""
 
 # Abstract.
-abstract = ""
+abstract = "This study attempts to investigate the presence of post-event over or under reaction in stock markets of the top ten countries by market-capitalization. An event is defined as an extreme price movement beyond a pre-defined threshold. Intra-day stock returns at ten-minute frequency starting from June 2009 till May 2016 have been analysed using Average cumulative returns (ACR) and Average cumulative abnormal returns (ACAR) for a six-day duration after the event. It seems that there is presence of over/under reaction in eight out of total ten countries and investors display psychological biases which lead to profit making opportunities."
 
 # Summary. An optional shortened abstract.
 summary = ""
