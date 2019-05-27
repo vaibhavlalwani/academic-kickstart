@@ -19,7 +19,7 @@ authors = ["admin","Udayan Sharma" ,"Madhumita Chakraborty"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IIMB Management Review"
+publication = "*IIMB Management Review, "
 publication_short = ""
 
 # Abstract.
