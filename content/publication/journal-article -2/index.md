@@ -36,7 +36,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Source Themes"]
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -79,7 +79,3 @@ url_source = "https://www.emeraldinsight.com/doi/abs/10.1108/MF-07-2017-0248"
   focal_point = ""
 
 +++
-
-{{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}

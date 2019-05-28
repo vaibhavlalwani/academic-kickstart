@@ -19,7 +19,7 @@ authors = ["admin","Udayan Sharma" ,"Madhumita Chakraborty"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IIMB Management Review, "
+publication = "*IIMB Management Review* "
 publication_short = ""
 
 # Abstract.
@@ -36,7 +36,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Source Themes"]
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -62,7 +62,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.sciencedirect.com/science/article/pii/S0970389618301290"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
