@@ -55,14 +55,14 @@ projects = []
 slides = "example"
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/open?id=1shtFrjSC0TTfJLpasul8OAbU1DEjGH4z"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.tandfonline.com/doi/full/10.1080/00036846.2019.1640859"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
