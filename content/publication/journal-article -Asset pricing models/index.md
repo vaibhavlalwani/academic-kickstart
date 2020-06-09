@@ -1,5 +1,5 @@
 +++
-title = "Quality investing in the Indian stock market"
+title = "Multi-factor asset pricing models in emerging and developed markets"
 date = 2018-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -19,11 +19,11 @@ authors = ["admin", "Madhumita Chakraborty"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Managerial Finance, 44*(2)"
+publication = "*Managerial Finance, 46*(3)"
 publication_short = ""
 
 # Abstract.
-abstract = "The purpose of this paper is to explore whether stock selection strategies based on four fundamental quality indicators can generate superior returns compared to the passive market portfolio. The findings suggest that two of the four quality strategies, namely Grantham Quality indicator and Gross Profitability have generated superior returns in Indian stock market for the 2001-2015 period."
+abstract = "The purpose of this paper is to compare the performance of various multifactor asset pricing models across ten emerging and developed markets.We find that the Fama-French five-factor model improves the pricing performance for stocks in Australia, Canada, China and the USA. The pricing in these countries appears to be more integrated. However, the superior performance in these four countries is not consistent across a variety of test assets and the magnitude of reduction in pricing errors vis-à-vis three- or four-factor models is often economically insignificant. For other markets, the parsimonious three-factor model or its four-factor variants appear to be more suitable."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -55,14 +55,14 @@ projects = []
 slides = "example"
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1QcGFGYOrQCSADNZ4Z8xlszkppXZNZlQx/view?usp=sharing"
+url_pdf = ""
 url_code = ""
-url_dataset = "https://drive.google.com/file/d/1drUf3bkcjkMIhSkFZE9CZnoJst3O97iK/view"
+url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.emeraldinsight.com/doi/abs/10.1108/MF-07-2017-0248"
+url_source = "https://www.emerald.com/insight/content/doi/10.1108/MF-12-2018-0607/full/html"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
