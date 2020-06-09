@@ -1,9 +1,9 @@
 +++
-title = "Investor reaction to extreme price shocks in stock markets: A cross country examination"
-date = 2017-03-01T00:00:00
+title = "Quality investing in the Indian stock market"
+date = 2018-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin","Prateek Bedi" ,"Devesh Shankar"]
+authors = ["admin", "Madhumita Chakraborty"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["admin","Prateek Bedi" ,"Devesh Shankar"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Business Analyst* "
+publication = "*Managerial Finance, 44*(2)"
 publication_short = ""
 
 # Abstract.
-abstract = "Does the choice of risk-adjusted performance measure really make a difference in the ranking of equity portfolios? To answer this question, we categorise risk-adjusted performance measures in four groups: Volatility Based Risk Measures (Sharpe and M2 Ratios); Sensitivity Based Risk Measures (Treynor’s Ratio, Jensen’s Alpha and Information Ratio); Downside Risk Measures (Sortino Ratio) and Tail Risk Based Measures (Modified Sharpe Normal VaR, Modified Sharpe Cornish Fisher VaR, Modified Sharpe Historical VaR and Modified Sharpe Expected Shortfall). We calculate values of all these risk-adjusted measures for 111 equity growth oriented mutual fund schemes in India starting June 2005 to June 2015.  We use Spearman’s and Kendall’s rank correlation measures to find out the extent of congruence among ranking of schemes according to all risk-adjusted measures. We find a substantial degree of positive and significant concordance among rankings on the basis of different risk-adjusted measures with rank correlations ranging from 0.61 to 0.99. The results of the study indicate that the choice of risk-adjusted measure is broadly inconsequential to mutual fund performance ranking in the context of Indian equity markets. The findings are relevant for retail/institutional investors and fund managers."
+abstract = "The purpose of this paper is to explore whether stock selection strategies based on four fundamental quality indicators can generate superior returns compared to the passive market portfolio. The findings suggest that two of the four quality strategies, namely Grantham Quality indicator and Gross Profitability have generated superior returns in Indian stock market for the 2001-2015 period."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -55,14 +55,14 @@ projects = []
 slides = "example"
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://drive.google.com/file/d/1QcGFGYOrQCSADNZ4Z8xlszkppXZNZlQx/view?usp=sharing"
 url_code = ""
-url_dataset = ""
+url_dataset = "https://drive.google.com/file/d/1drUf3bkcjkMIhSkFZE9CZnoJst3O97iK/view"
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.emeraldinsight.com/doi/abs/10.1108/MF-07-2017-0248"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

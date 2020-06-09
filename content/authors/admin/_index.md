@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Candidate in Finance and Accounting
+role: Visiting Assistant Professor (Finance and Accounts)
 
 # Organizations/Affiliations
 organizations:
-- name: Indian Institute of Management Lucknow
+- name: Indian Institute of Management Raipur
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-Vaibhav Lalwani is a Doctoral Student in Finance & Accounting at the Indian Institute of Management Lucknow. His research interests include asset pricing, investment strategies and aggregate accounting.
+I am a Visiting Assistant Professor in Finance & Accounting at the Indian Institute of Management Raipur. My research interests include asset pricing, investment strategies, aggregate accounting and forecasting.
 
